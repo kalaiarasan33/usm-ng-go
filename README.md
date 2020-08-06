@@ -9,6 +9,6 @@
 
 ### Backend CRUD is written in Go gin webframework
 
-#### Steps to build application in binary
+#### Steps to build application
    ##### go build
    ##### usm-ng-go start
