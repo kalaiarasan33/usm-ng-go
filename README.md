@@ -12,3 +12,6 @@
 #### Steps to build application
    ##### go build
    ##### usm-ng-go start
+
+## Example
+![alt text](https://github.com/kalaiarasan33/usm-ng-go/blob/master/usm.PNG)
