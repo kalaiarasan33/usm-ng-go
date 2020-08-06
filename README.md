@@ -1,6 +1,6 @@
 # usm-ng-go 
 
-### Its simple user management web ui, which is written in angular and  embedding as binary data into a go progra
+### Its simple user management web ui, which is written in angular and  embedding as binary data into a go program
  ####  * Steps to Create embedding as binary data 
   ####   * CMD: ng build 
   #### * build UI components to dist package 
